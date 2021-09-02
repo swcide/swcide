@@ -9,7 +9,7 @@
 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Oracle](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Oracle&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/Orcale-4479A1?style=flat-square&logo=Oracle&logoColor=white)
 
 
 <br/>
